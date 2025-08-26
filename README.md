@@ -16,7 +16,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=MEGALODON-MD;VERSION+2025;BY+DYBY+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=baloch-MD;VERSION+2025;BY+king+TECH" alt="Typing SVG" />
   </a>
 </p>
   
@@ -35,7 +35,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/kingmd786/BALOCH-KING-MD/fork"><img title="MEGALODON-MD" src="https://img.shields.io/badge/FORK-MEGALODON%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kingmd786/BALOCH-KING-MD/fork"><img title="Baloch md" src="https://img.shields.io/badge/FORK-MEGALODON%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -152,7 +152,7 @@ jobs:
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME DybyTech࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME balochteach👿
 
 <p align="">
 <a href='https://wa.me/+92 306 6660758?text=*ʜɪɪ+ᴅʏʙʏ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+Baloch+MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
